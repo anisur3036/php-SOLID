@@ -1,4 +1,5 @@
 <?php
+//without single responsibility principle
 class Report
 {
     public function getTitle()
